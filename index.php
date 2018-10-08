@@ -5,4 +5,5 @@ nuevo();
 function nuevo(){
 	echo "num";
 }
+//comentario de nuevo archivo
 ?>
